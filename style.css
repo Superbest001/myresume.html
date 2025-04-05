@@ -1,0 +1,28 @@
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+footer{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+footer ul{
+    display: flex;
+    gap: 50px;
+}
+footer ul li{
+    font: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: 200;
+    font-style: italic;
+    background-color: whitesmoke;
+    list-style: none;
+    
+}
